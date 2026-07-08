@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="anton·io — DevOps & Automatización" width="100%">
+</p>
+
 # 📊 Generador automático de reportes
 
 ![DevOps](https://img.shields.io/badge/DevOps-anton·io-8B5CF6?style=flat-square)
@@ -22,6 +26,8 @@ Convierte un archivo de datos (CSV) en un **reporte visual listo para enviar**, 
 ## 🖼️ Resultado
 
 El script genera un `reporte.html` como este:
+
+![Vista previa del reporte](portada.png)
 
 - Tarjetas con las métricas principales.
 - Gráfico de barras por producto.
