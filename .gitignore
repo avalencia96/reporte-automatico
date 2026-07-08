@@ -1,0 +1,12 @@
+# Reportes generados
+reporte.html
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Entorno / credenciales
+.env
